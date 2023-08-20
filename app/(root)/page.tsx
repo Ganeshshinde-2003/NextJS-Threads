@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
-      <h2>Threads</h2>
-    </main>
+    <>
+      <h1 className="head-text text-left">Home</h1>
+    </>
   )
 }
