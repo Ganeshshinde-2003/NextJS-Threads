@@ -15,13 +15,14 @@ async function Page({ params }: { params: { id: string } }) {
   if (!user) return null;
 
   const userInfo = await fetchUser(params.id);
-  if (!userInfo?.onboarded) redirect("/onboarding");
-  
+  // if (!userInfo?.onboarded) {
+  //    return redirect("/onboarding");
+  // }
   return (
     <section>
-        <h1 className="head-text mb-10">Search</h1>
+      <h1 className="head-text mb-10">Search</h1>
     </section>
-  )
+  );
 }
 
-export default Page
+export default Page;
