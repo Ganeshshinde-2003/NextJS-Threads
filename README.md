@@ -55,17 +55,17 @@ To run Thread on your local machine, follow these steps:
 
 ## 💡 Usage
 
-- **Sign Up/Login**: Create an account or log in to start using Thread.
-- **Explore Communities**: Browse and discover communities that align with your interests.
-- **Join a Community**: Join communities you're interested in by clicking the "Join" button.
-- **View User Profiles**: Click on user profiles to view their activity, posts, and other details.
-- **User Search**: Utilize the search feature to find other users and connect with them.
-- **Create a Thread**: Click the "New Thread" button to initiate a new discussion within a community. Add a title, content, and any media you want to share.
-- **Participate in Discussions**: Explore existing threads within communities and reply to them. Engage in meaningful conversations with other community members.
-- **Create Posts**: Share your thoughts, ideas, and updates by creating posts within communities.
-- **Activity Tracking**: Keep track of your own activity through your profile and see what other users are up to.
-- **Customize Your Profile**: Personalize your profile with avatars, bios, and more.
-- **Explore Trends**: Discover popular and trending threads and community discussions in the Thread community.
+- ✨ **Sign Up/Login**: Create an account or log in to start using Thread.
+- 🔍 **Explore Communities**: Browse and discover communities that align with your interests.
+- 🤝 **Join a Community**: Join communities you're interested in by clicking the "Join" button.
+- 👤 **View User Profiles**: Click on user profiles to view their activity, posts, and other details.
+- 🔎 **User Search**: Utilize the search feature to find other users and connect with them.
+- 📢 **Create a Thread**: Click the "New Thread" button to initiate a new discussion within a community. Add a title, content, and any media you want to share.
+- 💬 **Participate in Discussions**: Explore existing threads within communities and reply to them. Engage in meaningful conversations with other community members.
+- 📝 **Create Posts**: Share your thoughts, ideas, and updates by creating posts within communities.
+- 📈 **Activity Tracking**: Keep track of your own activity through your profile and see what other users are up to.
+- 🖌️ **Customize Your Profile**: Personalize your profile with avatars, bios, and more.
+- 📊 **Explore Trends**: Discover popular and trending threads and community discussions in the Thread community.
 
 ## 📦 Packages Used
 
